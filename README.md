@@ -1,6 +1,6 @@
 <img src="[https://pbs.twimg.com/profile_banners/15915340/1641310176/1500x500](https://larinsoft.com/assets/develop-software-banner.jpg)" width="1200" height="300" />
 
-## Beyaz Takkeli İnşiyatçı 👋 Enes Y 
+## Beyaz Takkeli Kovboy 👋 Enes Y 
 
 ### ❓ SSS : ❓ SIKCA SORULAN SORULAR  >> YOKKİ
 #### ✅ Linkler:
