@@ -1,5 +1,4 @@
-![MasterHead](![image](![image](https://github.com/Nss-Y/Nss-Y/assets/140005018/f8c7524d-47f6-4194-87c3-99ab91c72a84.png)
-)
+
 )
 ![](https://komarev.com/ghpvc/?username=Nss-Y&color=blue)
 <div align="center">
