@@ -1,35 +1,13 @@
-![](https://komarev.com/ghpvc/?username=Nss-Y&color=blue)
-<div align="center">
- <a href="https://github.com/Nss-Y">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Enes+Y+%e2%9c%a8;%f0%9f%93%9a+Software+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
- </a>
-</div>
+<img src="[https://pbs.twimg.com/profile_banners/15915340/1641310176/1500x500](https://larinsoft.com/assets/develop-software-banner.jpg)" width="1200" height="300" />
 
-<img src="![image](https://github.com/Nss-Y/Nss-Y/assets/140005018/211d1afb-19ca-4a19-912e-672f3ae2d9a4)
-" alt="Coding" width=200 height=200 align="right">
+## Beyaz Takkeli Tornaci 👋 Can Deger  
 
+### ❓ SSS : ❓ SIKCA SORULAN SORULAR  >> YOKKİ
+#### ✅ Linkler:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1990Shop) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/enesyei) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Nsscim)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Nss1q) 
 
-<h3 align="left">&nbsp; A passionate Web3 developer from Türkiye</h3>
-
-- 🔭 I’m currently working on **C++**
-
-- 💬 Ask me about **?**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<a href="[https://www.youtube.com/c/nss1q](https://www.youtube.com/channel/UCfz1wQ9IuEaa4LC3GyNziTw)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Nss-Y" height="30" width="40" /></a>
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-</p>
-
-
-
-<!--
-<details>
-  <summary>:zap: GitHub Stats</summary> 
--->
-# 💻 Languages and Tools:
+### 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C++](https://img.shields.io/badge/-C++-365dbf.svg?logo=C%2B%2B&style=for-the-badge)
@@ -38,83 +16,27 @@
 ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
-  <summary><h2>📸 My Latest YouTube Videos</h2></summary>
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Nss-Y&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Nss-Y&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nss-Y&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- BEGIN YOUTUBE-CARDS -->
-<!-- END YOUTUBE-CARDS -->
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Nss-Y&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Nss-Y&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
-</picture>
-
-
-
-# Github Stats
-
- <br />
- 
-  <p align="center">
-  <a>
-    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/Nss-Y/blob/main/img/Bird%20Wing%20Left.png">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nss-Y&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="CagatayAkkas" />
-    <img heigth="160" width="182" src="https://github.com/Nss-Y/Nss-Y/blob/main/img/Bird%20Wing%20Right.png">
-  </a>
-</p>
-
-  
-<br />
+---
+[![](https://visitor-badge.laobi.icu/badge?page_id=Nss-Y.nss-y)](#)
 
 
- 
- <p align="center">
-  <a>
-    <img heigth="160" width="182" src="https://github.com/Nss-Y/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CagatayAkkas&theme=material-palenight&hide_border=false" alt="CagatayAkkas" width="55%" />
-    <img heigth="160" width="182" src="https://github.com/Nss-Y/CagatayAkkas/blob/main/img/Bird%20Wing%20Right.png">
-  </a>
-</p>
- 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
- 
- <br />
- 
-  
-  
-  <p align="center">
-  <a>
-    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Bottom%20Left.png">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CagatayAkkas&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="CagatayAkkas" />
-    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Bottom%20Right.png">
-  </a>
-</p>
- 
-  
-  
- <!--
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nss-Y&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/CagatayAkkas/github-readme-stats)
--->
+
+
 
 
 <br />
-
-![](https://github-profile-trophy.vercel.app/?username=Nss-Y&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
-
-<br />
-
-
-<br />
-
-
-<!--
-</details>
--->
-
-<!--
-<details>
-   <summary>:zap: Languages and Tools</summary>
- -->
