@@ -15,8 +15,6 @@
 
 - 💬 Ask me about **?**
 
-- 📫 How to reach me **yenes6655@gmail.com**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
