@@ -1,4 +1,4 @@
-<img src="[https://pbs.twimg.com/profile_banners/15915340/1641310176/1500x500](https://larinsoft.com/assets/develop-software-banner.jpg)" width="1200" height="300" />
+<img src="[[https://pbs.twimg.com/profile_banners/15915340/1641310176/1500x500](https://larinsoft.com/assets/develop-software-banner.jpg)" width="1200" height="300](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftr.linkedin.com%2Fpulse%2Fyaz%25C4%25B1l%25C4%25B1m-hakk%25C4%25B1nda-her-%25C5%259Fey-nedir-niye-%25C3%25B6nemlidir-nas%25C4%25B1l-nereden-er%25C3%25B6zkan&psig=AOvVaw0cT0Ok4HV2z2kI9lu5OfRr&ust=1734006502523000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjWy97bn4oDFQAAAAAdAAAAABAR)" />
 
 ## Beyaz Takkeli Kovboy 👋 Enes Y 
 
