@@ -1,4 +1,3 @@
-<img src="[ https://www.megabim.com/wp-content/uploads/2015/09/security_banner.jpg /
 
 ## Beyaz Takkeli Kovboy 👋 Enes Y 
 
